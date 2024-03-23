@@ -1,0 +1,50 @@
+2024-03-23 11:55:25,756:INFO:Starting the application
+2024-03-23 11:55:25,808:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:55:25,813:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:55:25,816:INFO: * Restarting with stat
+2024-03-23 11:55:27,444:INFO:Starting the application
+2024-03-23 11:55:27,459:WARNING: * Debugger is active!
+2024-03-23 11:55:27,475:INFO: * Debugger PIN: 838-684-479
+2024-03-23 11:55:55,950:INFO:127.0.0.1 - - [23/Mar/2024 11:55:55] "GET / HTTP/1.1" 200 -
+2024-03-23 11:55:56,449:INFO:127.0.0.1 - - [23/Mar/2024 11:55:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 11:56:07,033:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:56:09,564:INFO:Prediction: 155849.9
+2024-03-23 11:56:09,564:INFO:127.0.0.1 - - [23/Mar/2024 11:56:09] "POST / HTTP/1.1" 200 -
+2024-03-23 11:56:28,462:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 5}
+2024-03-23 11:56:28,472:INFO:Prediction: 317252.91
+2024-03-23 11:56:28,472:INFO:127.0.0.1 - - [23/Mar/2024 11:56:28] "POST / HTTP/1.1" 200 -
+2024-03-23 11:57:13,835:INFO:Application terminated
+2024-03-23 11:57:14,253:INFO:Application terminated
+2024-03-23 12:07:43,242:INFO:Starting the application
+2024-03-23 12:07:43,305:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:07:43,306:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:07:43,309:INFO: * Restarting with stat
+2024-03-23 12:07:44,862:INFO:Starting the application
+2024-03-23 12:07:44,872:WARNING: * Debugger is active!
+2024-03-23 12:07:44,882:INFO: * Debugger PIN: 838-684-479
+2024-03-23 12:08:32,787:INFO:127.0.0.1 - - [23/Mar/2024 12:08:32] "GET / HTTP/1.1" 200 -
+2024-03-23 12:11:47,014:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 2}
+2024-03-23 12:11:49,316:INFO:Prediction: 196200.66
+2024-03-23 12:11:49,317:INFO:127.0.0.1 - - [23/Mar/2024 12:11:49] "POST / HTTP/1.1" 200 -
+2024-03-23 12:11:57,305:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:11:57,311:INFO:Prediction: 155849.9
+2024-03-23 12:11:57,311:INFO:127.0.0.1 - - [23/Mar/2024 12:11:57] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:08,218:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:08,219:INFO:Prediction: 155849.9
+2024-03-23 12:16:08,219:INFO:127.0.0.1 - - [23/Mar/2024 12:16:08] "POST / HTTP/1.1" 200 -
+2024-03-23 12:17:22,469:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:17:22,473:INFO:Prediction: 155849.9
+2024-03-23 12:17:22,474:INFO:127.0.0.1 - - [23/Mar/2024 12:17:22] "POST / HTTP/1.1" 200 -
+2024-03-23 12:17:27,170:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:17:27,173:INFO:Prediction: 155849.9
+2024-03-23 12:17:27,175:INFO:127.0.0.1 - - [23/Mar/2024 12:17:27] "POST / HTTP/1.1" 200 -
+2024-03-23 12:20:30,082:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 2.0, 'sqft_living': 2000.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:20:30,084:INFO:Prediction: 454596.57
+2024-03-23 12:20:30,085:INFO:127.0.0.1 - - [23/Mar/2024 12:20:30] "POST / HTTP/1.1" 200 -
+2024-03-23 12:20:46,999:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 3.0, 'sqft_living': 3000.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 5}
+2024-03-23 12:20:47,007:INFO:Prediction: 976822.28
+2024-03-23 12:20:47,008:INFO:127.0.0.1 - - [23/Mar/2024 12:20:47] "POST / HTTP/1.1" 200 -
+2024-03-23 12:25:50,536:INFO:Application terminated
+2024-03-23 12:25:50,855:INFO:Application terminated
